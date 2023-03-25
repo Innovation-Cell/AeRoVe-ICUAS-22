@@ -5,7 +5,7 @@ The main repository for the ICUAS 2022 UAV competition.
 | ICUAS 2022 Competition build status | [![Melodic](https://github.com/larics/icuas22_competition/actions/workflows/melodic.yaml/badge.svg)](https://github.com/larics/icuas22_competition/actions/workflows/melodic.yaml)  | [![Noetic](https://github.com/larics/icuas22_competition/actions/workflows/noetic.yaml/badge.svg)](https://github.com/larics/icuas22_competition/actions/workflows/noetic.yaml) |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
-## Install
+## Install 
 
 You can either manually install the UAV software stack by following 
 [uav_ros_simulation](https://github.com/larics/uav_ros_simulation) instruction or simply 
